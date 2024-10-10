@@ -675,3 +675,5 @@ const topics = [
       "id": 39
     }
   ]
+
+export default topics;
